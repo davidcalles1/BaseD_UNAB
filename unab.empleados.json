@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37a9"
+  },
+  "nombre": "Carolina Suárez",
+  "edad": 29,
+  "ciudad": "Bogotá",
+  "correo": "carolina@unab.com",
+  "cargo": "Desarrolladora Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37aa"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 35,
+  "ciudad": "Medellín",
+  "correo": "juan@unab.com",
+  "cargo": "Analista de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37ab"
+  },
+  "nombre": "Laura Torres",
+  "edad": 27,
+  "ciudad": "Bogotá",
+  "correo": "laura@unab.com",
+  "cargo": "Diseñadora UX",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37ac"
+  },
+  "nombre": "Carlos Mendoza",
+  "edad": 42,
+  "ciudad": "Cali",
+  "correo": "carlos@unab.com",
+  "cargo": "Gerente de Proyecto",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37ad"
+  },
+  "nombre": "Diana Ríos",
+  "edad": 31,
+  "ciudad": "Barranquilla",
+  "correo": "diana@unab.com",
+  "cargo": "Desarrolladora Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37ae"
+  },
+  "nombre": "Andrés Gómez",
+  "edad": 36,
+  "ciudad": "Medellín",
+  "correo": "andres@unab.com",
+  "cargo": "Administrador de Base de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37af"
+  },
+  "nombre": "María Fernanda",
+  "edad": 30,
+  "ciudad": "Cali",
+  "correo": "maria@unab.com",
+  "cargo": "Desarrolladora Fullstack",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b0"
+  },
+  "nombre": "Luis Rodríguez",
+  "edad": 33,
+  "ciudad": "Bogotá",
+  "correo": "luis@unab.com",
+  "cargo": "Ingeniero DevOps",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b1"
+  },
+  "nombre": "Juliana Ramírez",
+  "edad": 28,
+  "ciudad": "Cartagena",
+  "correo": "juliana@unab.com",
+  "cargo": "Diseñadora Gráfica",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b2"
+  },
+  "nombre": "Felipe Arias",
+  "edad": 45,
+  "ciudad": "Bogotá",
+  "correo": "felipe@unab.com",
+  "cargo": "CTO",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b3"
+  },
+  "nombre": "Natalia López",
+  "edad": 26,
+  "ciudad": "Manizales",
+  "correo": "natalia@unab.com",
+  "cargo": "Community Manager",
+  "departamento": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b4"
+  },
+  "nombre": "Esteban Martínez",
+  "edad": 40,
+  "ciudad": "Cúcuta",
+  "correo": "esteban@unab.com",
+  "cargo": "Product Owner",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b5"
+  },
+  "nombre": "Sofía Herrera",
+  "edad": 32,
+  "ciudad": "Santa Marta",
+  "correo": "sofia@unab.com",
+  "cargo": "Scrum Master",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b6"
+  },
+  "nombre": "Ricardo Mejía",
+  "edad": 37,
+  "ciudad": "Bogotá",
+  "correo": "ricardo@unab.com",
+  "cargo": "Líder Técnico",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b7"
+  },
+  "nombre": "Camila Ruiz",
+  "edad": 29,
+  "ciudad": "Cali",
+  "correo": "camila@unab.com",
+  "cargo": "Analista QA",
+  "departamento": "Calidad"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b8"
+  },
+  "nombre": "Julián Castro",
+  "edad": 34,
+  "ciudad": "Bogotá",
+  "correo": "julian@unab.com",
+  "cargo": "Ingeniero de Software",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37b9"
+  },
+  "nombre": "Paula Silva",
+  "edad": 38,
+  "ciudad": "Medellín",
+  "correo": "paula@unab.com",
+  "cargo": "Especialista en Ciberseguridad",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37ba"
+  },
+  "nombre": "Daniela Molina",
+  "edad": 25,
+  "ciudad": "Neiva",
+  "correo": "daniela@unab.com",
+  "cargo": "Practicante",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37bb"
+  },
+  "nombre": "Tomás Villalba",
+  "edad": 41,
+  "ciudad": "Ibagué",
+  "correo": "tomas@unab.com",
+  "cargo": "Director de Innovación",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6825554d6b7e8f03f83f37bc"
+  },
+  "nombre": "Valentina Nieto",
+  "edad": 30,
+  "ciudad": "Bogotá",
+  "correo": "valentina@unab.com",
+  "cargo": "Consultora TI",
+  "departamento": "Consultoría"
+}]
